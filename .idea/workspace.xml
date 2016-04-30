@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cacfa4c4-b5ea-4c50-aed8-a15da450a7d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_0_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/application.yml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/nems/discovery/server/NemsDiscoveryServerApplication.class" afterPath="$PROJECT_DIR$/target/classes/com/nems/discovery/server/NemsDiscoveryServerApplication.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NemsDiscoveryServer.iml" afterPath="$PROJECT_DIR$/NemsDiscoveryServer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/nems/discovery/server/NemsDiscoveryServerApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/nems/discovery/server/NemsDiscoveryServerApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/bootstrap.yml" afterPath="$PROJECT_DIR$/target/classes/bootstrap.yml" />
     </list>
     <ignored path="NemsDiscoveryServer.iws" />
@@ -672,12 +661,19 @@
       <workItem from="1461861325728" duration="5397000" />
       <workItem from="1461919420004" duration="632000" />
       <workItem from="1461998430146" duration="3669000" />
-      <workItem from="1462015331936" duration="2524000" />
+      <workItem from="1462015331936" duration="2553000" />
     </task>
+    <task id="LOCAL-00001" summary="dgdg">
+      <created>1462022365459</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462022365459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19516000" />
+    <option name="totallyTimeSpent" value="19545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -721,6 +717,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dgdg" />
+    <option name="LAST_COMMIT_MESSAGE" value="dgdg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
